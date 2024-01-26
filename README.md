@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">BLOOD DONATION MANAGEMENT SYSTEM</h1>
-Our main vision is to design a systematic blood donor management system and to validate the design using appropriate support. This is a PC-based application. It is implemented by Java Swing and the database is MySQL
+<h1 style="text-align: center;">BLOOD DONATION MANAGEMENT SYSTEM</h1> 
+Main vision is to design a systematic blood donor management system and to validate the design using appropriate support. This is a PC-based application. It is implemented by Java Swing and the database is MySQL
 
 # Language and Tools
 
@@ -17,6 +17,6 @@ Our main vision is to design a systematic blood donor management system and to v
 ![Alt text](adddonar.png)
 ![Alt text](addrecipent.png)
 ![Alt text](donor.png)
-![Alt text](donorh.png)
+![Alt text](donorH.png)
 ![Alt text](search.png)
 
